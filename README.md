@@ -44,24 +44,9 @@ cd breast-cancer-detection-eda-ml
 pip install -r requirements.txt
 
 
----
-
-## 📦 Run
-
-Open the notebook in Jupyter:
-jupyter notebook Breast Cancer Diagnosis.ipynb
-
----
-
-## 🧬 Dataset
-
-Used the built-in Breast Cancer Wisconsin Diagnostic dataset from sklearn.datasets.
-
----
-
-## 👩‍💻 Author
+**## 👩‍💻 Author
 
 Sanyogita Ingale
 Aspirant in AI/ML and Data Science | Business & Market Analyst
 https://github.com/Sanyoing13
-    
+    **
