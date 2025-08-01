@@ -36,17 +36,8 @@ The aim is to demonstrate a complete machine learning pipeline—from data under
 
 ---
 
-## 📦 Installation
+## 👩‍💻 Author
 
-```bash
-git clone https://github.com/<your-username>/breast-cancer-detection-eda-ml.git
-cd breast-cancer-detection-eda-ml
-pip install -r requirements.txt
-
-
-**## 👩‍💻 Author
-
-Sanyogita Ingale
-Aspirant in AI/ML and Data Science | Business & Market Analyst
-https://github.com/Sanyoing13
-    **
+**Sanyogita Ingale**  
+Aspirant in AI/ML and Data Science | Business & Market Analyst  
+[GitHub Profile](https://github.com/sanyoing13)
