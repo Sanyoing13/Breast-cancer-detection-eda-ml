@@ -1,0 +1,8 @@
+ ## 📦 requirements:
+
+It contains the list of Python packages required to run the notebook.
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
